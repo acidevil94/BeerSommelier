@@ -1,9 +1,9 @@
-package com.texa.beersommelier.model.beer
+package com.coluzzi.beersommelier.model.beer
 
 import com.google.gson.annotations.SerializedName
-import com.texa.beersommelier.model.beer.ingredients.Ingredients
-import com.texa.beersommelier.model.beer.method.Method
-import com.texa.beersommelier.model.beer.measure.Measure
+import com.coluzzi.beersommelier.model.beer.ingredients.Ingredients
+import com.coluzzi.beersommelier.model.beer.method.Method
+import com.coluzzi.beersommelier.model.beer.measure.Measure
 
 /**
  * Class that represents the model of a beer type, containing all informations about hops, malts,

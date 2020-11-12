@@ -1,10 +1,10 @@
-package com.texa.beersommelier.data
+package com.coluzzi.beersommelier.data
 
 import android.util.Log
 import androidx.paging.PagingSource
-import com.texa.beersommelier.api.BeerService
-import com.texa.beersommelier.model.beer.Beer
-import com.texa.beersommelier.util.Constants
+import com.coluzzi.beersommelier.api.BeerService
+import com.coluzzi.beersommelier.model.beer.Beer
+import com.coluzzi.beersommelier.util.Constants
 import java.lang.Exception
 
 /**

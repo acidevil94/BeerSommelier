@@ -1,4 +1,4 @@
-package com.texa.beersommelier.model.beer.measure
+package com.coluzzi.beersommelier.model.beer.measure
 
 import com.google.gson.annotations.SerializedName
 

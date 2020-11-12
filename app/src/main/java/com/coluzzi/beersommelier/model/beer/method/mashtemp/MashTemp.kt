@@ -1,7 +1,7 @@
-package com.texa.beersommelier.model.beer.method.mashtemp
+package com.coluzzi.beersommelier.model.beer.method.mashtemp
 
 import com.google.gson.annotations.SerializedName
-import com.texa.beersommelier.model.beer.measure.Measure
+import com.coluzzi.beersommelier.model.beer.measure.Measure
 
 data class MashTemp (
     @field:SerializedName("temp") val temp: Measure,

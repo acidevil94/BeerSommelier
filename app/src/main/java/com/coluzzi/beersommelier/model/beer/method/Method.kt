@@ -1,8 +1,8 @@
-package com.texa.beersommelier.model.beer.method
+package com.coluzzi.beersommelier.model.beer.method
 
 import com.google.gson.annotations.SerializedName
-import com.texa.beersommelier.model.beer.method.fermentation.Fermentation
-import com.texa.beersommelier.model.beer.method.mashtemp.MashTemp
+import com.coluzzi.beersommelier.model.beer.method.fermentation.Fermentation
+import com.coluzzi.beersommelier.model.beer.method.mashtemp.MashTemp
 
 data class Method (
     @field:SerializedName("mash_temp") val mashTemp: List<MashTemp>,

@@ -1,4 +1,4 @@
-package com.texa.beersommelier.ui.search
+package com.coluzzi.beersommelier.ui.search
 
 import android.content.Intent
 import android.view.LayoutInflater
@@ -9,10 +9,10 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.google.gson.Gson
 import com.squareup.picasso.Picasso
-import com.texa.beersommelier.R
-import com.texa.beersommelier.model.beer.Beer
-import com.texa.beersommelier.ui.detail.BeerDetailActivity
-import com.texa.beersommelier.util.Constants
+import com.coluzzi.beersommelier.R
+import com.coluzzi.beersommelier.model.beer.Beer
+import com.coluzzi.beersommelier.ui.detail.BeerDetailActivity
+import com.coluzzi.beersommelier.util.Constants
 
 
 /**

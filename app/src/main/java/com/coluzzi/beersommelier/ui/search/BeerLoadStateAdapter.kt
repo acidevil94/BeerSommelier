@@ -1,4 +1,4 @@
-package com.texa.beersommelier.ui.search
+package com.coluzzi.beersommelier.ui.search
 
 import android.view.ViewGroup
 import androidx.paging.LoadState

@@ -1,7 +1,7 @@
-package com.texa.beersommelier.api
+package com.coluzzi.beersommelier.api
 
-import com.texa.beersommelier.model.beer.Beer
-import com.texa.beersommelier.util.Constants
+import com.coluzzi.beersommelier.model.beer.Beer
+import com.coluzzi.beersommelier.util.Constants
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit

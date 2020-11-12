@@ -1,4 +1,4 @@
-package com.texa.beersommelier.util
+package com.coluzzi.beersommelier.util
 
 /**
  * Class that contains application Constants.

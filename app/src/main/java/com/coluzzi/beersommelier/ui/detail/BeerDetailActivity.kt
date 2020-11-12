@@ -1,4 +1,4 @@
-package com.texa.beersommelier.ui.detail
+package com.coluzzi.beersommelier.ui.detail
 
 import android.graphics.Color
 import android.graphics.drawable.GradientDrawable
@@ -10,13 +10,13 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.google.gson.Gson
 import com.squareup.picasso.Picasso
-import com.texa.beersommelier.R
-import com.texa.beersommelier.databinding.ActivityBeerDetailBinding
-import com.texa.beersommelier.model.beer.Beer
-import com.texa.beersommelier.model.beer.ingredients.hop.Hop
-import com.texa.beersommelier.model.beer.ingredients.malt.Malt
-import com.texa.beersommelier.model.beer.method.mashtemp.MashTemp
-import com.texa.beersommelier.util.Constants
+import com.coluzzi.beersommelier.R
+import com.coluzzi.beersommelier.databinding.ActivityBeerDetailBinding
+import com.coluzzi.beersommelier.model.beer.Beer
+import com.coluzzi.beersommelier.model.beer.ingredients.hop.Hop
+import com.coluzzi.beersommelier.model.beer.ingredients.malt.Malt
+import com.coluzzi.beersommelier.model.beer.method.mashtemp.MashTemp
+import com.coluzzi.beersommelier.util.Constants
 
 
 // values for activity's tables design

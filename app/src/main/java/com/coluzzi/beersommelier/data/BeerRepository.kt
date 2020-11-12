@@ -1,11 +1,11 @@
-package com.texa.beersommelier.data
+package com.coluzzi.beersommelier.data
 
 import androidx.paging.Pager
 import androidx.paging.PagingConfig
 import androidx.paging.PagingData
-import com.texa.beersommelier.api.BeerService
-import com.texa.beersommelier.model.beer.Beer
-import com.texa.beersommelier.util.Constants
+import com.coluzzi.beersommelier.api.BeerService
+import com.coluzzi.beersommelier.model.beer.Beer
+import com.coluzzi.beersommelier.util.Constants
 import kotlinx.coroutines.flow.Flow
 
 /**

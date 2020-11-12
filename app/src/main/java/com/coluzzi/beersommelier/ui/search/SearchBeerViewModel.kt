@@ -1,11 +1,11 @@
-package com.texa.beersommelier.ui.search
+package com.coluzzi.beersommelier.ui.search
 
 import androidx.lifecycle.*
 import androidx.paging.PagingData
 import androidx.paging.cachedIn
-import com.texa.beersommelier.data.BeerRequest
-import com.texa.beersommelier.data.BeerRepository
-import com.texa.beersommelier.model.beer.Beer
+import com.coluzzi.beersommelier.data.BeerRequest
+import com.coluzzi.beersommelier.data.BeerRepository
+import com.coluzzi.beersommelier.model.beer.Beer
 import kotlinx.coroutines.flow.Flow
 
 /**

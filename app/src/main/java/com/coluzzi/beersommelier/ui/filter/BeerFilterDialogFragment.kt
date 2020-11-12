@@ -1,4 +1,4 @@
-package com.texa.beersommelier.ui.filter
+package com.coluzzi.beersommelier.ui.filter
 
 import android.content.Context
 import android.os.Bundle
@@ -7,10 +7,10 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.DialogFragment
-import com.texa.beersommelier.R
-import com.texa.beersommelier.data.BeerRequest
-import com.texa.beersommelier.databinding.DialogFilterBinding
-import com.texa.beersommelier.util.Constants
+import com.coluzzi.beersommelier.R
+import com.coluzzi.beersommelier.data.BeerRequest
+import com.coluzzi.beersommelier.databinding.DialogFilterBinding
+import com.coluzzi.beersommelier.util.Constants
 
 
 /**

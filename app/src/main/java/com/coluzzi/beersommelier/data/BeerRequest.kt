@@ -1,4 +1,4 @@
-package com.texa.beersommelier.data
+package com.coluzzi.beersommelier.data
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

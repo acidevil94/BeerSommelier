@@ -1,12 +1,12 @@
-package com.texa.beersommelier.ui.search
+package com.coluzzi.beersommelier.ui.search
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.view.isVisible
 import androidx.paging.LoadState
 import androidx.recyclerview.widget.RecyclerView
-import com.texa.beersommelier.R
-import com.texa.beersommelier.databinding.BeerLoadStateFooterViewItemBinding
+import com.coluzzi.beersommelier.R
+import com.coluzzi.beersommelier.databinding.BeerLoadStateFooterViewItemBinding
 
 
 /**

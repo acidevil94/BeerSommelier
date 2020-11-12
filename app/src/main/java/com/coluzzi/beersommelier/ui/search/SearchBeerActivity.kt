@@ -1,4 +1,4 @@
-package com.texa.beersommelier.ui.search
+package com.coluzzi.beersommelier.ui.search
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -10,12 +10,12 @@ import androidx.core.view.isVisible
 import androidx.lifecycle.lifecycleScope
 import androidx.paging.LoadState
 import androidx.recyclerview.widget.DividerItemDecoration
-import com.texa.beersommelier.api.BeerService
-import com.texa.beersommelier.data.BeerRequest
-import com.texa.beersommelier.data.BeerRepository
-import com.texa.beersommelier.databinding.ActivitySearchBeerBinding
-import com.texa.beersommelier.ui.filter.BeerFilterDialogFragment
-import com.texa.beersommelier.util.Constants
+import com.coluzzi.beersommelier.api.BeerService
+import com.coluzzi.beersommelier.data.BeerRequest
+import com.coluzzi.beersommelier.data.BeerRepository
+import com.coluzzi.beersommelier.databinding.ActivitySearchBeerBinding
+import com.coluzzi.beersommelier.ui.filter.BeerFilterDialogFragment
+import com.coluzzi.beersommelier.util.Constants
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.collectLatest

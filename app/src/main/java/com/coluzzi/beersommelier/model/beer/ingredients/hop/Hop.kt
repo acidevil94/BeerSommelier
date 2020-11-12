@@ -1,8 +1,7 @@
-package com.texa.beersommelier.model.beer.ingredients.hop
+package com.coluzzi.beersommelier.model.beer.ingredients.hop
 
 import com.google.gson.annotations.SerializedName
-import com.texa.beersommelier.model.beer.ingredients.malt.Malt
-import com.texa.beersommelier.model.beer.measure.Measure
+import com.coluzzi.beersommelier.model.beer.measure.Measure
 
 data class Hop (
     @field:SerializedName("name") val name: String,

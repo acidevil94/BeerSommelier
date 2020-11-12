@@ -1,11 +1,11 @@
-package com.texa.beersommelier.ui.search
+package com.coluzzi.beersommelier.ui.search
 
 import android.view.ViewGroup
 import androidx.paging.PagingDataAdapter
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.texa.beersommelier.model.beer.Beer
+import com.coluzzi.beersommelier.model.beer.Beer
 
 /**
  * Class that contains the logic to help the
