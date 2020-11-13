@@ -11,7 +11,7 @@ In the navigation list user will find the bottle image to simply recognize the b
 The user can also filter beers by many parameters, such as:
 
 - Name
-- Tweast
+- Yeast
 - Malts
 - Hops
 
